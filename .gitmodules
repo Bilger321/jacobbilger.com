@@ -1,0 +1,3 @@
+[submodule "projects/fedora"]
+	path = projects/fedora
+	url = git@github.com:Bilger321/fedora.git
